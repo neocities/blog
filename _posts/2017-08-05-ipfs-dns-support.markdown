@@ -5,7 +5,7 @@ date:   2017-08-07 00:00:00 -0600
 categories: blog
 ---
 
-I've never been shy about our support for the [distributed web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html). As the flaws of today's web continue to lead to increased centralization, and with Net Neutrality being gutted, the stakes for a good future for the web have never been more clear to me. That's why were one of the first organizations to start doing implementation work with [IPFS](https://ipfs.io), which I continue to believe is the next version of the web, and the logical successor to HTTP.
+I've never been shy about our support for the [distributed web](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html). As the flaws of today's web continue to lead to increased centralization, and with Net Neutrality being gutted, the stakes for a good future for the web have never been more clear to me. That's why we were one of the first organizations to start doing implementation work with [IPFS](https://ipfs.io), which I continue to believe is the next version of the web, and the logical successor to HTTP.
 
 Continuing down this adoption path, **I'm happy to announce that Neocities now has support for IPFS DNS records!** That means that most of the 140,000+ sites that have a neocities.org subdomain can now be accessed through IPFS via DNS.
 
