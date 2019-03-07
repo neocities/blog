@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "File moving/renaming, faster web sites"
-date:   2018-03-06 00:00:00 -0600
+date:   2019-03-06 00:00:00 -0600
 categories: blog
 ---
 
